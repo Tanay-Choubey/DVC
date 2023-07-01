@@ -18,3 +18,24 @@ touch .gitignore
 
 touch README.md
 ```
+### basic commands
+```
+dvc init
+
+dvc repro
+
+dvc dag
+
+dvc add <file name>
+
+git add <file_names> && git commit -m "file added successfully
+
+dvc remote add myremote <any_remote_location>
+
+dvc push
+```
+
+### Official dvc documentation
+```
+https://dvc.org/doc
+```
