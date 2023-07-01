@@ -18,4 +18,3 @@ touch .gitignore
 
 touch README.md
 ```
-
